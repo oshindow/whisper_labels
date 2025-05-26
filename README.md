@@ -1,5 +1,8 @@
 # whisper_labels
 
+sort -k1,1 yourfile.txt
+
+
 # Mandarin Chinese Speech Data
 | #  | Dataset Name        |Link  | Duration       | Path     | Citation   |
 |----|----------------------|------------------------|----------------|----------------------|-----------------|
